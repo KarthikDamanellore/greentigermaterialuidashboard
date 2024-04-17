@@ -1,0 +1,14 @@
+.liveLoactionContainerStyles {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    margin-inline: auto;
+    transform: translate(160px);
+}
+
+.searchAndInputsBlockStyles {
+    display: flex;
+    flex-direction: row;
+    gap: 16px;
+    justify-content: space-between;
+}

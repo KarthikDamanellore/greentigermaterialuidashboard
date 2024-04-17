@@ -1,0 +1,18 @@
+.MuiModal-backdrop {
+    display: none !important;
+}
+
+.MuiDrawer-paperAnchorLeft {
+    width: 300px !important;
+    position: unset !important;
+    z-index: 0 !important;
+    height: 100vh !important;
+}
+
+.MuiDrawer-root {
+    /* position: unset !important; */
+    width: 300px !important;
+    z-index: 0 !important;
+    top: 58px !important;
+    left: 16px !important;
+}
